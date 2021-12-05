@@ -1,0 +1,7 @@
+name = "adventofcode-2015"
+uuid = "d6a129e2-ac0a-4812-866f-dee864783602"
+authors = "<jarkko@iki.fi>"
+version = "1.0.0"
+
+[deps]
+MD5 = "6ac74813-4b46-53a4-afec-0b5dc9d7885c"
